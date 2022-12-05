@@ -16,10 +16,7 @@ export const Link = styled(NavLink)`
 
 export const Btn = styled(Button)`
   color: green;
-  &.active {
-    color: tomato;
-  }
-`
+`;
 
 export const AuthList = styled.ul`
   display: flex;

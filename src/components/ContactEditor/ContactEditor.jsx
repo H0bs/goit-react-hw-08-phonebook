@@ -1,4 +1,4 @@
-import { useDispatch } from "react-redux"
+import { useDispatch } from "react-redux";
 import { addContact } from "redux/contacts/operations";
 
 export const ContactEditor = () => {

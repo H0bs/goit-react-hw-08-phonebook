@@ -8,4 +8,4 @@ export const Header = styled.header`
   margin: 0 auto;
   margin-bottom: 20px;
   border-bottom: 1px solid #777;
-`
+`;
